@@ -1,5 +1,5 @@
 # LEGO-MINDSTORMS-TETRIX
-Robotic Engineering - Mini Project 
+Robotics Engineering - Mini Project 
 
 ### Aim of the Project 
 The Robot is programmed in such a way that it avoids the obstacles such as walls, objects, etc. in its way, by taking the required direction to reach its destination with 
